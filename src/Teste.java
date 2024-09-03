@@ -2,7 +2,10 @@
  * Teste
  */
 public class Teste {
+
     public static void main(String[] args) {
-        private int idade;   
+        private String nome;
+        private int idade;  
     }
 }
+
